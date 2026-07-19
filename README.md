@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Aditya%20Kohli&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Builder&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=280&amp;section=header&amp;text=Aditya%20Kohli&amp;fontSize=70&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Engineer%20%7C%20Builder&amp;descAlignY=55&amp;descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI+%2F+ML+%7C+Full+Stack+Engineering;Building+Production-Grade+Systems;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Computer+Science+Engineering+Student;AI+%2F+ML+%7C+Full+Stack+Engineering;Building+Production-Grade+Systems;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -260,14 +260,9 @@ Designing and shipping complete AI/ML and full-stack systems independently, from
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/kohli30)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-1E1B4B?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46)](https://geeksforgeeks.org/user/kohli30)
-[![HackerRank](https://img.shields.io/badge/HackerRank-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://hackerrank.com/kohli30)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1E1B4B?style=for-the-badge&logo=codechef&logoColor=5B4638)](https://codechef.com/users/kohli30)
+*Coding profiles coming soon — actively building a DSA/competitive programming track.*
 
 </div>
-
-> ⚠️ Update the handles above — these currently point to placeholder URLs using your GitHub username.
 
 ---
 
@@ -277,12 +272,12 @@ Designing and shipping complete AI/ML and full-stack systems independently, from
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kohli30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd&ring_color=7c3aed" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kohli30&theme=tokyonight&hide_border=true&background=0d0221&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kohli30&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d0221&amp;title_color=a78bfa&amp;icon_color=8b5cf6&amp;text_color=c4b5fd&amp;ring_color=7c3aed" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kohli30&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d0221&amp;ring=7c3aed&amp;fire=a78bfa&amp;currStreakLabel=c4b5fd" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohli30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kohli30&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d0221&amp;title_color=a78bfa&amp;text_color=c4b5fd" width="48%"/>
 
 </div>
 
@@ -294,7 +289,7 @@ Designing and shipping complete AI/ML and full-stack systems independently, from
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kohli30&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=kohli30&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15&amp;row=1&amp;column=6" />
 
 </div>
 
@@ -306,7 +301,7 @@ Designing and shipping complete AI/ML and full-stack systems independently, from
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kohli30&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=a78bfa&line=7c3aed&point=c4b5fd" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kohli30&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d0221&amp;color=a78bfa&amp;line=7c3aed&amp;point=c4b5fd" width="95%"/>
 
 </div>
 
@@ -358,8 +353,8 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
+[![Gmail](https://img.shields.io/badge/Gmail-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityakohli765@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-k-b3812928b/)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kohli30)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/kohli30)
 
@@ -373,6 +368,6 @@ Open To:
 
 *"Engineering isn't about knowing every framework — it's about shipping systems that work, and proving it with numbers."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=150&amp;section=footer" width="100%"/>
 
 </div>
