@@ -288,8 +288,6 @@ Designing and shipping complete AI/ML and full-stack systems independently, from
 
 </div>
 
-> ⚠️ Snake animation requires the `platane/snk` GitHub Action set up on a `kohli30/kohli30` repository to render — see setup note below.
-
 ---
 
 <br/>
